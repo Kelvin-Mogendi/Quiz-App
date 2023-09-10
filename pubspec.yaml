@@ -1,10 +1,10 @@
 name: flutterquiz
 description: A new Flutter application.
 publish_to: "none"
-version: 1.0.17+21
+version:
 
 environment:
-  sdk: '>=3.0.6 <4.0.0'
+  sdk: ">=3.0.6 <4.0.0"
 
 dependencies:
   apple_sign_in_safety: ^0.0.6

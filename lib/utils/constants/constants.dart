@@ -60,7 +60,7 @@ const settingsThemeKey = "theme";
 //Add your database url
 //make sure to not add '/' at the end of url
 // make sure to check if admin panel is http or https
-const databaseUrl = "https://elitequiz.wrteam.me";
+const databaseUrl = "https://cbcquizzes.mfunza.co.ke";
 
 const baseUrl = '$databaseUrl/Api/';
 
